@@ -1,0 +1,15 @@
+C:\Users\Cansu\source\repos\İşletimZeki\İşletimZeki\bin\Debug\net6.0\İşletimZeki.exe
+C:\Users\Cansu\source\repos\İşletimZeki\İşletimZeki\bin\Debug\net6.0\İşletimZeki.deps.json
+C:\Users\Cansu\source\repos\İşletimZeki\İşletimZeki\bin\Debug\net6.0\İşletimZeki.runtimeconfig.json
+C:\Users\Cansu\source\repos\İşletimZeki\İşletimZeki\bin\Debug\net6.0\İşletimZeki.dll
+C:\Users\Cansu\source\repos\İşletimZeki\İşletimZeki\bin\Debug\net6.0\İşletimZeki.pdb
+C:\Users\Cansu\source\repos\İşletimZeki\İşletimZeki\obj\Debug\net6.0\İşletimZeki.csproj.AssemblyReference.cache
+C:\Users\Cansu\source\repos\İşletimZeki\İşletimZeki\obj\Debug\net6.0\İşletimZeki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cansu\source\repos\İşletimZeki\İşletimZeki\obj\Debug\net6.0\İşletimZeki.AssemblyInfoInputs.cache
+C:\Users\Cansu\source\repos\İşletimZeki\İşletimZeki\obj\Debug\net6.0\İşletimZeki.AssemblyInfo.cs
+C:\Users\Cansu\source\repos\İşletimZeki\İşletimZeki\obj\Debug\net6.0\İşletimZeki.csproj.CoreCompileInputs.cache
+C:\Users\Cansu\source\repos\İşletimZeki\İşletimZeki\obj\Debug\net6.0\İşletimZeki.dll
+C:\Users\Cansu\source\repos\İşletimZeki\İşletimZeki\obj\Debug\net6.0\refint\İşletimZeki.dll
+C:\Users\Cansu\source\repos\İşletimZeki\İşletimZeki\obj\Debug\net6.0\İşletimZeki.pdb
+C:\Users\Cansu\source\repos\İşletimZeki\İşletimZeki\obj\Debug\net6.0\İşletimZeki.genruntimeconfig.cache
+C:\Users\Cansu\source\repos\İşletimZeki\İşletimZeki\obj\Debug\net6.0\ref\İşletimZeki.dll
